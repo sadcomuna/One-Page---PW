@@ -1,0 +1,71 @@
+
+
+* {
+
+  margin: 0;
+  padding: 0;
+
+}
+
+body, html {
+
+  height: 100%;
+
+}
+
+.parallax {
+
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 0;
+  position: relative;
+
+}
+
+.div1 {
+
+  background-image: url('../img/thanos1.jpg');
+
+}
+
+.div2 {
+
+  background-image: url('../img/thanos2.jpg');
+  
+}
+
+.div3 {
+
+  background-image: url('../img/thanos3.jpg');
+  
+}
+
+.div4 {
+
+  background-image: url('../img/thanos4.jpg');
+  
+}
+
+.div5 {
+
+  background-image: url('../img/thanos5.jpg');
+  
+}
+
+.div6 {
+
+  background-image: url('../img/thanos6.jpg');
+  
+}
+
+.text {
+  font-weight: 100%; 
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000;
+}
